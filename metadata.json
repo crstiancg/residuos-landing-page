@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Módulo de Gestión Integral de Residuos Sólidos - Muni Puno Digital",
+  "description": "Plataforma institucional de gestión de residuos sólidos, consulta de las 29 rutas de recolección, segregación en la fuente, reportes vecinales y programa de compostaje de la Municipalidad Provincial de Puno.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
